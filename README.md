@@ -4,6 +4,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+Clone the repository, navigate to the project directory and install dependencies using npm or yarn:
+### `npm install`
+### `yarn start`
+ 
 In the project directory, you can run:
 
 ### `npm start`
